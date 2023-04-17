@@ -204,8 +204,6 @@ Also check out the sister project, [awesome-static-analysis](https://github.com/
 - [DynaPyt](https://github.com/sola-st/DynaPyt) — DynaPyt is a framework for writing dynamic analyses for Python. The analyses can also modify runtime values to alter the execution.
   
 
-- [DynaPyt](https://github.com/sola-st/DynaPyt) — DynaPyt is a framework for writing dynamic analyses for Python. The analyses can also modify runtime values to alter the execution.
-
 - [icontract](https://github.com/Parquery/icontract) — Design-by-contract library supporting behavioral subtyping
 There is also a wider tooling around the icontract library such as  a linter (pyicontract-lint) and a plug-in for Sphinx (sphinx-icontract).
   
